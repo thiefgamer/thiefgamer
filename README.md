@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me https://t.me/Thiefgamer
+- 📫 How to reach me amirComputerprogramming@gmail.com
 
 <!---
 thiefgamer/thiefgamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
